@@ -1,0 +1,5 @@
+# Assigment 6: Eclipse, Inheritance, Interfaces, Collections, and Javadocs Practice
+ Jorge Soto-Ventura
+
+# Defending the use of ArrayList as collection of choice
+Using ArrayList as the collection of choice allows the developer to be able to sort the elements in the list and also allows them to expand the list when new media items are added unlike the array collection. This collection also works better then say a map because it maintains the order in which the items were inserted meaning that if the develop was to insert the media items already sorted they would not need to be resorted. Also arraylist allow duplicates to exist within the library so if you have multiple of a CD or DVD that you would like add you can do so in arraylist unlike a set or map which does not allow duplicates unless you change the key in a map (Harry Potter: Goblet of Fire and Harry Potter Goblet of Fire 2).
